@@ -1,6 +1,7 @@
 # minix-vm
-run minix in vm
+
+## run minix in vm
 
 
-## Run
-  ./vm.sh
+### Run
+    ./vm.sh
